@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="brittney.in.beta-selcouth theme icon" src="selcouthLogo.png" width="100" />
+    <img alt="brittney.in.beta-selcouth theme icon" src="logo.jpg" width="100" />
   </a>
 
 ## Selcouth Theme
