@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="brittney.in.beta-selcouth theme icon" src="selcouthLogo.png" width="100" />
+  </a>
+
 ## Selcouth Theme
 
 > Selcouth - meaning strange, rare, and overall wondrous. 🦄
