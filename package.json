@@ -1,0 +1,43 @@
+{
+  "name": "Selcouth",
+  "displayName": "Selcouth",
+  "description": "Created by Brittney in Beta. Selcouth, meaning unfamiliar, rare, strange and yet marvelous. ",
+  "publisher": "BrittneyInBeta",
+  "author": {
+    "name": "Brittney Stuart"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "brittneyinbeta",
+    "brittneyinbeta theme",
+    "dark theme",
+    "VsCode theme",
+    "girly",
+    "bright colors",
+    "pink",
+    "blue",
+    "pastels",
+    "modern",
+    "contrasting"
+  ],
+  "icon": "icon.jpg",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Selcouth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Selcouth-color-theme.json"
+      }
+    ]
+  }
+}
