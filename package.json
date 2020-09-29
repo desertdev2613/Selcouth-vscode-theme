@@ -6,6 +6,10 @@
   "author": {
     "name": "Brittney Stuart"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desertdev2613/Selcouth-vscode-theme.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.49.0"
