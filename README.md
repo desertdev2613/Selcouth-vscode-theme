@@ -24,12 +24,6 @@
 
 ---
 
-### Javascript View:
-
-![typescript](https://user-images.githubusercontent.com/70024755/94504989-f756b180-01be-11eb-8805-45b507f0674a.png)
-
----
-
 📸 Instagram: @brittney.in.beta
 
 > More themes coming soon.
